@@ -1,0 +1,39 @@
+p,a,h1,h2,.header{
+    color: Red;
+    text-align: center;
+}     
+img{
+border: 1px solid
+
+}
+.header{
+    color: blue;
+    border: 2.3px solid
+
+}
+.Games{
+    color: green;
+    border: 5px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
+.game{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.Social{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: stretch ;
+
+}
+body{
+background-color: #000000;
+}
+a{
+    font-weight: italics;
+}
